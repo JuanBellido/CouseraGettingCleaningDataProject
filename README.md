@@ -22,3 +22,6 @@ Create one R script called run_analysis.R that does the following.
 - Save run_analysis.R from this repo in the folder of the previous step
 - Set your working directory in R to the folder
 - Then load the run_analysis.R in R -sorce("run_analysis.R")- and execute -run_analysis.R()-
+
+###Additional Info
+- Refer to the Codebook.md
